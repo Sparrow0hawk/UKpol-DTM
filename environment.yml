@@ -1,0 +1,10 @@
+name: nb-scraper
+channels:
+  - defaults
+dependencies:
+  - python==3.8
+  - pandas
+  - selenium
+  - beautifulsoup4
+  - jupyterlab
+  - lxml
